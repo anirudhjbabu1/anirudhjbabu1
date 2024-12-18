@@ -56,6 +56,17 @@ Portfolio - https://anirudhbabu2020.wixsite.com/anirudh-j-babu
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
 
+### 💻 Software and tools
+
+<p align="center">
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/-jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
+    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-sublime%20text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white"></a>
+  
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
