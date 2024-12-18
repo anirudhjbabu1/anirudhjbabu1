@@ -67,6 +67,13 @@ Portfolio - https://anirudhbabu2020.wixsite.com/anirudh-j-babu
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 📐Design
+<p align="center">
+  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/-canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
+  <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/-figma-b67148?style=for-the-badge&logo=figma&logoColor=white"></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
