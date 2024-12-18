@@ -3,7 +3,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-to be edited
+I am Anirudh, I am an AI enthusiastic.
+I am currently working as a Robotic software engineer
+Portfolio - https://anirudhbabu2020.wixsite.com/anirudh-j-babu
 .<br>
 
 ![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
