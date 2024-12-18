@@ -17,9 +17,9 @@ to be edited
     <a href="#"><img alt="C" src="https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=C&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/-c++-0B5B97?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
     <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0066B6?style=for-the-badge&logo=MATLAB&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-html-E05726?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <!--<a href="#"><img alt="HTML" src="https://img.shields.io/badge/-html-E05726?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-javascript-EAD41C?style=for-the-badge&logo=javascript&logoColor=white"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>  
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a> -->
 </p>
 
 
