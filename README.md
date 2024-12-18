@@ -29,7 +29,6 @@ to be edited
 ### 🧰 Frameworks and libraries
 
 <p align="center">
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/-github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
     <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
