@@ -32,15 +32,9 @@ to be edited
     <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/-scikit%20klearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" ></a>
-    <a href="#"><img alt="Node-JS" src="https://img.shields.io/badge/-node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" ></a>
-    <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/-yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
-    <a href="#"><img alt="LaTex" src="https://img.shields.io/badge/-latex-008080?style=for-the-badge&logo=latex&logoColor=black"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/-opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black"></a>
     <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&logo=tableau&logoColor=black"></a>
-    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black"></a>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
