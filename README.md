@@ -42,6 +42,9 @@ As a backend developer with four years of experience, I've honed my skills in de
     <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&logo=tableau&logoColor=black"></a>
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black"></a>
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- # 📊 GitHub Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=react&hide_border=false)<br/> -->
