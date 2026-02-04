@@ -9,7 +9,7 @@ I am currently working as a Robotic software engineer
 
 Portfolio - https://anirudhbabu2020.wixsite.com/anirudh-j-babu
 .<br>
-
+Portfolio or the Contents here are not updated, but don't Worry all my projects are updated and are always under constant R&D or just Development
 ![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
