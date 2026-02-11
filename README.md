@@ -16,7 +16,7 @@ Portfolio - https://anirudhjbabu1.github.io
 
 </br>
 
-Resume - https://drive.google.com/file/d/1jCYPQjo9NcgpYMjBDHt9TFk_ZjeL1cRG/view?usp=sharing
+Resume - https://drive.google.com/file/d/1sqBm6WeF3K1RFR1Z0rdPaTVT49I_qGGV/view?usp=sharing
 
 Portfolio or the Contents here are not updated, but don't Worry all my projects are updated and are always under constant R&D or just Development
 ![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
